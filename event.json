@@ -1,0 +1,12 @@
+{
+    "lastName": "Rest",
+    "firstName": "TestCreate1",
+    "earningType": "POINTS",
+    "languageCommunicationPreference": "EN_US",
+    "homePhone": "9234367850",
+    "email": {
+        "email": "abc@abc.com",
+        "primary": true,
+        "type": "Home"
+    }
+}
